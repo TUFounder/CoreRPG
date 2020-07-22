@@ -1,0 +1,25 @@
+name: CoreRPG
+version: 1.0
+main: ru.meedway.corerpg.Main
+description: Developer by SaMEC or Nick
+commands:
+  kit:
+  levels:
+  shop:
+  spawn:
+  quests:
+  this:
+  setnpc:
+  donate:
+  youtube:
+  vk:
+  discord:
+  sys-tutorial:
+  bilet:
+  tutorial:
+  help:
+  tainik:
+  skyblock:
+  admincase:
+  store-money:
+  adminreload:
